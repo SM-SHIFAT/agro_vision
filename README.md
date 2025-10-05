@@ -1,8 +1,6 @@
 <p align="center">
-  <img width="1200" height="332" alt="agro vision banner" src="https://github.com/user-attachments/assets/23e19b59-7ff1-4fa9-ae0e-9049fe067daa" />
-</p>
-
-
+  <img src="assets/agro vision banner (1).webp" width="100%" />
+</p> 
 <h1 align="center">🌾 Agro Vision</h1>
 
 Agro Vision is an innovative mobile application developed for the **NASA Space Apps Challenge**.  
