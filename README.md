@@ -45,7 +45,7 @@ An educational mini-game designed to teach **non-farmers** how food is grown, ha
 
 - **Frontend:** Flutter (Dart)
 - **ML:** TensorFlow Lite (Plant Disease Detection)
-- **Data Source:** NASA Earth Data & Weather WebApplication
+- **Data Source:** NASA Earth Data WebApplication & Weather API
 
 ---
 
