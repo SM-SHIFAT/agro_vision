@@ -4,7 +4,7 @@
 <h1 align="center">🌾 Agro Vision</h1>
 
 Agro Vision is an innovative mobile application developed for the **NASA Space Apps Challenge**.  
-Its mission is to empower **farmers** with advanced tools to manage their lands, stay updated with weather and natural disester, detect plant diseases, and spread awareness about agriculture through interactive learning.
+Its mission is to empower **farmers** with advanced tools to manage their lands, stay updated with weather and natural disaster, detect plant diseases, and spread awareness about agriculture through interactive learning.
 
 ---
 <p align="center">
@@ -80,8 +80,11 @@ An educational mini-game designed to teach **non-farmers** how food is grown, ha
   
 ---
 
-👩‍🚀 Team & Acknowledgments
-Developed with ❤️ for the NASA Space Apps Challenge 2025.
+## 👩‍🚀 Team & Acknowledgments
+👉 [**Agro Vision Team**](https://www.spaceappschallenge.org/2025/find-a-team/agro-vision/?tab=details)
+
+Developed by Agro Vision Team with ❤️ for the NASA Space Apps Challenge 2025.
+
 We are inspired by NASA’s commitment to open innovation and global sustainability.
 
 ---
