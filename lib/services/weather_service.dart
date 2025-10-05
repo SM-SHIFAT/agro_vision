@@ -1,9 +1,9 @@
 import 'dart:convert';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:http/http.dart' as http;
 
 class WeatherService {
-  final String apiKey =
-      '1fe1d01f1c76690631d608dbd734256c'; // Replace with your key
+  final String apiKey = dotenv.env['API_KEY'] ?? ''; // Replace with your key
 
   Future<List?> getCurrentTemperature(double lat, double lon) async {
     final url = Uri.parse(
